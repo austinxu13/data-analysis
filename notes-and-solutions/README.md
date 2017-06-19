@@ -1,2 +1,2 @@
 # Notes and Solutions
-We divide the tasks according to chapters
+We divide the tasks according to chapters.
